@@ -5,7 +5,7 @@ Manejo de funciones python 2
 
 - Codigo
 
-![image](https://github.com/user-attachments/assets/571602ef-4531-4f4c-b958-f5fb77bfc839)
+![image](https://github.com/user-attachments/assets/62fe24e3-f480-40df-a9d4-ef47b21211f9)
 
 - Resultado
 
